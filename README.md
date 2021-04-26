@@ -8,6 +8,8 @@ Manual mode: User can use IR remote to set the angle of motor, The change in ang
 
 Automatic mode: Using photoresistor or LDR the motor is set to the best position so that solar panel can get optimum output.
 
+Circuit Diagram and screenshot of different modes are show in images ['capture_1.jpg', 'capture_2.jpg', 'capture_3.jpg']
+
 #### Parts used in the project are:
 
 [1] Arduino uno
@@ -20,3 +22,5 @@ Automatic mode: Using photoresistor or LDR the motor is set to the best position
 [8]IR sensor 
 [9]IR remote 
 [10]1k Resistors (x2)
+
+

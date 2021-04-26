@@ -10,13 +10,13 @@ Automatic mode: Using photoresistor or LDR the motor is set to the best position
 
 #### Parts used in the project are:
 
-1 Arduino uno
-2 9g Servo motor (180 degree rotation limit)
-3 jumper wires 
-4 bread board 
-5 LDR (x2)
-6 16x2 LCD Display
-7 potentiometer 
-8 IR sensor 
-9 IR remote 
-10 1k Resistors (x2)
+[1] Arduino uno
+[2]9g Servo motor (180 degree rotation limit)
+[3]jumper wires 
+[4]bread board 
+[5]LDR (x2)
+[6]16x2 LCD Display
+[7]potentiometer 
+[8]IR sensor 
+[9]IR remote 
+[10]1k Resistors (x2)
